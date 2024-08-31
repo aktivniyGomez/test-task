@@ -1,0 +1,27 @@
+
+price=155,88 ₽/шт
+rating=5
+reviewCount=26
+
+price=155,88 ₽/шт
+rating=5
+reviewCount=26
+
+price=0
+rating=4.8
+reviewCount=171
+
+price=56,9 ₽/шт
+priceOld=59,9 ₽
+rating=4.9
+reviewCount=278
+
+price=229 ₽/кг
+priceOld=259 ₽
+rating=4
+reviewCount=1713
+
+price=116,9 ₽/шт
+priceOld=159 ₽
+rating=4.8
+reviewCount=933
